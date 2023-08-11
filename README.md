@@ -1,4 +1,4 @@
-# ardunio
+# ARDUINO PLAYGROUND
 Playground for Arduino micro-controller and my learning projects towards the reason I bought it in the first place.
 
 ## PROJECT: arduino_uno_hex_diods
