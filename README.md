@@ -13,6 +13,14 @@ Small program that reads input state (port 2) of a push button (port 3) and if p
 Third trial project.  
 Investigates usage of a 1024 resolution analogue temp sensor to measure skin temperature in comparison to a base temperature.
 
+## PROJECT: arduino_uno_hello_world  
+Fourth project using an LCD display.  
+Simple display and update of LCD display. Uses a variable resistor for balancing backlight.  
+Example taken from adruinos homepage:  
+https://docs.arduino.cc/learn/electronics/lcd-displays  
+  
+
+
 
 
 
