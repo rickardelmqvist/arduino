@@ -18,9 +18,20 @@ Fourth project using an LCD display.
 Simple display and update of LCD display. Uses a variable resistor for balancing backlight.  
 Example taken from adruinos homepage:  
 https://docs.arduino.cc/learn/electronics/lcd-displays  
+
+## PROJECT: arduino_uno_oled_hello  
+Fifth project usin an LCD OLED UEXT display.
+Communication protocol is I2C. 
+Protcol details:  
+https://docs.arduino.cc/learn/communication/wire  
+ 
+Library:  
+https://github.com/OLIMEX/MOD-OLED-128x64/tree/master/SOFTWARE/Adruino 
+
+Display seller details:  
+https://www.electrokit.com/produkt/lcd-oled-0-96-128-x-64px-uext/  
+ 
+Display manufacturer details:  
+https://www.olimex.com/Products/Modules/  
   
-
-
-
-
 
